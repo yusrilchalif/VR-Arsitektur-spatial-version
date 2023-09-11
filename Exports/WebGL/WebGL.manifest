@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: arsitektur_default_0
-      Hash: 01679e3b5cdc37cfd7c98a0269a36ba8
-      CRC: 3920690275
+      Name: avatar-1_default_0
+      Hash: 30ee2d453bcd9decc2bdabb8c7fadc73
+      CRC: 2835503946
       Dependencies: {}
